@@ -6,7 +6,7 @@ Eh um fluxo "automatizado" que leva os dados para as etapas (etl), onde refinamo
 
 ## Etapas:
 
-1. Ingestao dos dados (E): eh a etapa onde nos conectados com bancos de dados, apis, arquivos(csv,), erps para trazer os dados como esta na origem.
+1. Ingestao dos dados (E): eh a etapa onde nos conectados com bancos de dados, apis, arquivos(csv,parquets), erps para trazer os dados como esta na origem.
 
 2. Transformacoes (T): Nessa etapa, ja temos os dados brutos, cabe a nos engenheiro de dados transformar esses dados, seja tratando nulos, padronizando colunas, criando regras de negocios, indicadores.
 

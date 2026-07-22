@@ -7,8 +7,14 @@ O objetivo é consolidar conhecimento técnico de forma estruturada, servindo co
 ## 🧱 Fundamentos de Engenharia de Dados
 
 [Pipelines de dados](/01-fundamentos/pipelines_de_dados.md)
+[Data Lake]()
 
 
 ## 🏗️ Arquitetura de Dados
 
 [Arquitetura Medalao](/02-arquitetura/arquitetura_medalhao.md)
+
+
+## Spark
+
+[Arquitetura Spark](/03-spark/arquitetura_spark.md)
