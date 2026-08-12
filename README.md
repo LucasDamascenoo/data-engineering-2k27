@@ -6,11 +6,12 @@ O objetivo é consolidar conhecimento técnico de forma estruturada, servindo co
 
 ## 🧱 Fundamentos de Engenharia de Dados
 
-[Pipelines de dados](/01-fundamentos/pipelines_de_dados.md)
-[Data Lake]()
+[1. Pipelines de dados](/01-fundamentos/pipelines_de_dados.md)
+[2. ETL e ELT](/01-fundamentos/etl_elt.md)
+[3. OLTP e OLAP](/01-fundamentos/oltp_olap.md)
 
 
-## 🏗️ Arquitetura de Dados
+## 🏗️ Arquiteturas de Dados
 
 [Arquitetura Medalao](/02-arquitetura/arquitetura_medalhao.md)
 
